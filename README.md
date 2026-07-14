@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,python,golang,rust,spring,kafka,jenkins,docker,redis,postgresql,mysql" />
+  </a>
+</p>
+
 <!--
 **PataroLucas/PataroLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
