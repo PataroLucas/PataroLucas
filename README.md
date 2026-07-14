@@ -2,6 +2,8 @@
 
 🎓 Undergraduate in Computer Science
 
+___
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,python,golang,rust,spring,kafka,jenkins,docker,redis,postgresql,mysql" />
