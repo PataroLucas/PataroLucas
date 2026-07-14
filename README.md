@@ -1,4 +1,6 @@
-## Hi there 👋
+👨‍💻 Software Engineer
+
+🎓 Undergraduate in Computer Science
 
 <p align="center">
   <a href="https://skillicons.dev">
